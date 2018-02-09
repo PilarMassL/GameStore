@@ -1,0 +1,10 @@
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\model\Customer.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\ICustomerDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\ICustomerPurchaseDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\model\CustomerPurchase.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\impl\CustomerPurchaseDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\model\CustomerOrder.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\impl\CustomerOrderDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\ICustomerOrderDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\dao\impl\CustomerDao.java
+C:\workspacemars5\GameStore\src\main\java\com\co\stefanini\prueba\gamestore\db\ConnectionDB.java
